@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://jaesung-nam.github.io/vwo-demo/precache-manifest.188577571e21526ed2ce805d1310db04.js"
+  "https://jaesung-nam.github.io/vwo-demo/precache-manifest.da9c09a0b7ab5da30bd2daac0bbc0ec9.js"
 );
 
 self.addEventListener('message', (event) => {
